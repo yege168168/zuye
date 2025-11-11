@@ -1390,6 +1390,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1762868360356",
+      "title": "影视中心",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
