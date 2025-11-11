@@ -1421,6 +1421,14 @@
               "description": "访问 missav.ws",
               "icon": "/assets/favicon_1762868650749.png",
               "enabled": true
+            },
+            {
+              "id": "site_1762868920817_swjrr2fbe",
+              "title": "Supjav",
+              "href": "https://supjav.com/zh/",
+              "description": "访问 supjav.com",
+              "icon": "/assets/favicon_1762868913552.png",
+              "enabled": true
             }
           ]
         },
