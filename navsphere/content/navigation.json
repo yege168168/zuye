@@ -1415,7 +1415,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "04da02a1-b86e-43ee-b28e-0b2e7ab0d198",
+          "title": "看电影的",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
