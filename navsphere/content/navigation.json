@@ -1441,6 +1441,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1762879226400",
+      "title": "资源下载",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
