@@ -1405,6 +1405,14 @@
           "description": "BT影视每天提供720p高清、1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载网站，是下载高清电影的宝盒！",
           "icon": "/assets/favicon_1762868520948.png",
           "enabled": true
+        },
+        {
+          "id": "site_1762868661017_uhwsr6ksn",
+          "title": "Missav",
+          "href": "https://missav.ws/dm45",
+          "description": "访问 missav.ws",
+          "icon": "/assets/favicon_1762868650749.png",
+          "enabled": true
         }
       ],
       "subCategories": []
