@@ -108,6 +108,14 @@
           "description": "",
           "icon": "/assets/favicon_1761724837449.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1763122577778_ixs32ittx",
+          "title": "1000tool",
+          "href": "https://1000tool.com",
+          "description": "访问 1000tool.com",
+          "icon": "/assets/favicon_1763122571130.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
